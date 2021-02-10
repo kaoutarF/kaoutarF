@@ -1,4 +1,4 @@
-### Salut ! 👋
+### Salut ! :punch:
 
 Moi c'est Kaoutar, je suis actuellement en formation en tant que développeuse web. Ici vous trouverez l'ensemble des projets et exercices fait pendant ma formation.
  
